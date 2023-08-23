@@ -1,1 +1,1 @@
-https://hyuniinii-bakery.netlify.app
+https://hyuniinii-barbershop.netlify.app
